@@ -4,7 +4,7 @@
 
 :computer: I'm Front-End Developer!
 
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> I’m from Brazil.
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="15"> I’m from Brazil.
 
 :books: I’m currently learning everything.
 
