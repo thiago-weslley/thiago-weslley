@@ -4,7 +4,7 @@
 
 :computer: I'm Front-End Developer!
 
-:house_with_garden: I’m from Brazil.
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> I’m from Brazil.
 
 :books: I’m currently learning everything.
 
@@ -16,6 +16,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)
 
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+
 
 - Thanks for visiting.
