@@ -10,10 +10,10 @@
 
 :outbox_tray: 2023 Goals: create a new project and find a new job.
 
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif>
 
