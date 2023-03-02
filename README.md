@@ -2,7 +2,7 @@
 
 ## I'm Thiago Weslley!
 
-:computer: I'm Front-End Developer!
+:computer: Future full-stack Developer!
 
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="20"> I’m from Brazil.
 
