@@ -12,14 +12,25 @@
 
 <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20px"> Pronouns: *He/Him*
 
-:outbox_tray: 2023 Goals: create a new project and find a new job.
+:outbox_tray: 2023 Goals: create new projects and find a new job.
 
 <br>
 
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,bootstrap,jquery,git,github,figma,linux"/>
+  </a>
+</p>
 
 <br>
 
-# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+## Academic education:
 
-[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/thiago-weslley/) [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/thw_weslley/) [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/thiago-weslley)
+- [x] Technical High School Diploma in Information Technology
+- [ ] Bachelor's degree in Analysis and Systems Development
+
+<br>
+
+## Specialized Training in the TECH Field:
+
+- [ ] Fullstack Development Training - DevClub
