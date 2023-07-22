@@ -4,7 +4,7 @@
 
 ## I'm Thiago Weslley!
 
-:computer: Full Stack Developer in training!
+📱 Flutter Developer in training!
 
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="20"> I’m from Brazil.
 
@@ -16,12 +16,27 @@
 
 <br>
 
+---
+
+## Learned technologies:
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,bootstrap,git,figma"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,scss,bootstrap,git"/>
   </a>
 </p>
 
+<br>
+
+## Technologies in training:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart"/>
+  </a>
+</p>
+
+---
 <br>
 
 ## Academic education:
@@ -34,3 +49,9 @@
 ## Specialized Training in the TECH Field:
 
 - [ ] Fullstack Development Training - DevClub
+
+<br>
+
+## Bootcamps and Immersions:
+
+- [x] Linux Bootcamp from Scratch - DIO
