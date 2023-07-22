@@ -4,7 +4,7 @@
 
 ## I'm Thiago Weslley!
 
-📱 Flutter Developer in training!
+:iphone: Flutter Developer in training!
 
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="20"> I’m from Brazil.
 
