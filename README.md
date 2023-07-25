@@ -48,7 +48,7 @@
 
 ## Specialized Training in the TECH Field:
 
-- [ ] Fullstack Development Training - DevClub
+- [x] Fullstack Development Training - DevClub
 
 <br>
 
