@@ -46,10 +46,6 @@
 
 <br>
 
-## Specialized Training in the TECH Field:
-
-- [x] Fullstack Development Training - DevClub
-
 <br>
 
 ## Bootcamps and Immersions:
