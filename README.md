@@ -46,8 +46,6 @@
 
 <br>
 
-<br>
-
 ## Bootcamps and Immersions:
 
 - [x] Linux Bootcamp from Scratch - DIO
