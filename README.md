@@ -4,7 +4,7 @@
 
 ## I'm Thiago Weslley!
 
-:iphone: Front-end and mobile developer in training!
+:iphone: Web and mobile developer in training!
 
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="20"> I’m from Brazil.
 
