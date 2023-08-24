@@ -49,3 +49,4 @@
 ## Bootcamps and Immersions:
 
 - [x] Linux Bootcamp from Scratch - DIO
+- [ ] Santander Bootcamp 2023 - Mobile (Flutter)
