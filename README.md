@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,java"/>
+    <img src="https://skillicons.dev/icons?i=figma,tailwind,java"/>
   </a>
 </p>
 
